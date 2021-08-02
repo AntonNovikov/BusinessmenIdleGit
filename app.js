@@ -1,3 +1,4 @@
+// variables
 var i = 0;
 var iTwo = 0;
 var count = 0;
